@@ -20,5 +20,4 @@ It provides insights into total revenue, category-wise sales, and performance ov
 Designed and queried a bookstore database using MySQL. 
 Implemented a range of SQL queries to extract insights like books by genre, publication year, customer location, sales trends, stock analysis, and order behavior.
 This project demonstrates practical SQL skills in filtering, aggregation, ordering, and subqueries.
-👉[*View Project*](https://github.com/Poojak2641/Projects/blob/main/SQL%20PROJECT.sql)
-[📄 SQL Project](https://raw.githubusercontent.com/Poojak2641/Projects/main/SQL%20PROJECT.sql)
+
