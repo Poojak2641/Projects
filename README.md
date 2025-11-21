@@ -4,12 +4,8 @@ These projects demonstrate practical data analysis, visualization, and business 
 ## Tools Used
 - Microsoft Excel
 - Power BI
-- MySQL
-
-# Excel Sales Dashboard Project  
-  Developed an Excel dashboard using PivotTables, slicers, and charts to track monthly sales performance.  
-  The dashboard helps visualize product-wise and region-wise trends effectively.  
-[*View Project*](https://github.com/Poojak2641/Projects/blob/main/Excel%20Dashboard%20Project.xlsx)
+- SQL
+- Tableau
 
 # Power BI Sales Dashboard Project  
   Developed a collection of interactive Power BI dashboards showcasing data visualization and analytical insights:
@@ -29,3 +25,9 @@ Each dashboard includes interactive visuals, slicers, and drill-down analysis fo
   Implemented a range of SQL queries to extract insights like books by genre, publication year, customer location, sales trends, stock analysis, and order behavior.  
   This project demonstrates practical SQL skills in filtering, aggregation, ordering, and subqueries.  
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/SQL%20Projects/Online%20Book%20Store.sql)
+
+# Tableau Project
+Designed a Tableau dashboard to study user behaviour across online learning modules. 
+Visualized engagement metrics such as active users, progress rate, and session frequency.
+
+[*View Project*](https://github.com/Poojak2641/Projects/blob/main/Tableau%20Dashboard.png)
