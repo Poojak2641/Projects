@@ -28,7 +28,7 @@ Each dashboard includes interactive visuals, slicers, and drill-down analysis fo
   This project analyzes e-commerce data using SQL queries to extract insights on sales performance, customer behavior, and product trends.
   It includes operations like filtering, aggregation, joins, and analytical queries to support data-driven business decisions.
 
-[*View Project*]()
+[*View Project*](https://github.com/Poojak2641/Projects/blob/main/SQL%20Projects/E_Commerce.sql)
 
   -Bookstore Analysis :-
   Designed and queried a bookstore database using MySQL.  
