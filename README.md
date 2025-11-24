@@ -26,6 +26,11 @@ Each dashboard includes interactive visuals, slicers, and drill-down analysis fo
   This project demonstrates practical SQL skills in filtering, aggregation, ordering, and subqueries.  
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/SQL%20Projects/Online%20Book%20Store.sql)
 
+# Python Project
+This project analyzes a sales dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn to uncover key insights and trends.
+It includes data cleaning, visualization, and exploratory analysis to support data-driven decision making.
+
+[*View Project*](https://github.com/Poojak2641/Projects/tree/main/Python%20Projects)
 # Tableau Project
 Designed a Tableau dashboard to study user behaviour across online learning modules. 
 Visualized engagement metrics such as active users, progress rate, and session frequency.
