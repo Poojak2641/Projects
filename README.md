@@ -5,24 +5,34 @@ These projects demonstrate practical data analysis, visualization, and business 
 - Microsoft Excel
 - Power BI
 - SQL
+- Python
 - Tableau
 
 # Power BI Sales Dashboard Project  
   Developed a collection of interactive Power BI dashboards showcasing data visualization and analytical insights:
+  
+  - Retail Store Dashboard :– Analyzes sales trends, profit margins, and product category performance to support business decisions.
+[*View Project*](https://github.com/Poojak2641/Projects/blob/main/PowerBi_Projects/Retail%20Superstore%20Dashboard.pbix)
+
   - Mobile Sales Dashboard :–Tracks product-wise and region-wise mobile sales performance with key KPIs and dynamic filters.
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/PowerBi_Projects/Mobile%20Sales%20Dashboard.pbix)
 
   - Hotstar Dashboard :– Displays total movies, TV shows, languages, and country-wise content distribution.
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/PowerBi_Projects/Hotstar%20Dashboard.pbix) 
 
-  - Retail Store Dashboard :– Analyzes sales trends, profit margins, and product category performance to support business decisions.
-[*View Project*](https://github.com/Poojak2641/Projects/blob/main/PowerBi_Projects/Retail%20Superstore%20Dashboard.pbix)
-
 Each dashboard includes interactive visuals, slicers, and drill-down analysis for better decision-making.
 
-# Online Bookstore SQL Project  
+# SQL Project  
+
+  -E_Commerce Analysis :-
+  This project analyzes e-commerce data using SQL queries to extract insights on sales performance, customer behavior, and product trends.
+  It includes operations like filtering, aggregation, joins, and analytical queries to support data-driven business decisions.
+
+[*View Project*]()
+
+  -Bookstore Analysis :-
   Designed and queried a bookstore database using MySQL.  
-  Implemented a range of SQL queries to extract insights like books by genre, publication year, customer location, sales trends, stock analysis, and order behavior.  
+  Implemented a range of SQL queries to extract insights like books by genre, publication year, customer location, sales trends, stock analysis, and order           behavior.  
   This project demonstrates practical SQL skills in filtering, aggregation, ordering, and subqueries.  
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/SQL%20Projects/Online%20Book%20Store.sql)
 
@@ -30,7 +40,8 @@ Each dashboard includes interactive visuals, slicers, and drill-down analysis fo
 This project analyzes a sales dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn to uncover key insights and trends.
 It includes data cleaning, visualization, and exploratory analysis to support data-driven decision making.
 
-[*View Project*](https://github.com/Poojak2641/Projects/tree/main/Python%20Projects)
+[*View Project*](https://github.com/Poojak2641/Projects/blob/main/Python%20Projects/python%20project.ipynb)
+
 # Tableau Project
 Designed a Tableau dashboard to study user behaviour across online learning modules. 
 Visualized engagement metrics such as active users, progress rate, and session frequency.
