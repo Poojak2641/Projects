@@ -47,3 +47,9 @@ Designed a Tableau dashboard to study user behaviour across online learning modu
 Visualized engagement metrics such as active users, progress rate, and session frequency.
 
 [*View Project*](https://github.com/Poojak2641/Projects/blob/main/Tableau%20Dashboard.png)
+
+# Excel Project
+Created dynamic Excel dashboards using pivot tables, charts, and formulas to track key metrics and product  
+trends.Performed data cleaning and analysis to support decision-making with clear visual summaries. 
+
+[*View Project*](https://github.com/Poojak2641/Projects/blob/main/Excel%20Project/Dashboard.png)
